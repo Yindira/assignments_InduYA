@@ -3,7 +3,7 @@ package homeworks;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class UserInputTest {
+public class UserInput {
 
 	public static void main(String[] args) {
 
@@ -18,6 +18,8 @@ public class UserInputTest {
 		} catch (InputMismatchException e) {
 			System.out.println("Try again ,the number you entered is not an integer.Please try again.");
 		}
+		
+		//Comment By Deepinder
 
 	}
 
