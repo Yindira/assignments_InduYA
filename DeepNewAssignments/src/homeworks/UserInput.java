@@ -19,7 +19,7 @@ public class UserInput {
 			System.out.println("Try again ,the number you entered is not an integer.Please try again.");
 		}
 		
-		//Comment By Deepinder
+		//Comment By Deepinder Singh
 
 	}
 
